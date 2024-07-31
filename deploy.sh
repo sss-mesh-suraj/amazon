@@ -12,3 +12,4 @@ echo “Please enter the correct number..”
 ;;
 esac
 echo “switch case demo ends..”
+this is all about deployment statistics
